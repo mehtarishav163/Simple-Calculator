@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}
+
+#heading {
+    margin: -200px 0px 200px 0px;
+} 
+
+span1 {
+    border-bottom: 2px solid red;
+    padding: 4px;
+}
+
+span2 {
+    margin-left: 25px;
+    border-bottom: 2px solid red;
+    padding: 4px;
+}
+
+button {
+    margin: 20px 0;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 15px 18px;
+}
